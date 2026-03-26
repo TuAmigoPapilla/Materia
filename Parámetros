@@ -1,14 +1,14 @@
 Parámetros de Certificación
+Parámetros Críticos de Certificación
 
 Mapa de Cableado (Wiremap)
+El Wiremap permite verificar la continuidad del cable y la correcta ubicación de cada hilo en los pines del conector RJ45, según las normas T568A o T568B. Detecta fallas como pares cruzados, cables abiertos, en corto o mal conectados.
 
-El Wiremap permite verificar la continuidad del cable y la correcta ubicación de cada hilo en los pines del conector RJ45, según las normas T568A o T568B. Detecta fallas como pares cruzados, cables abiertos, en corto o mal conecta
 Longitud
+Corresponde a la distancia total del cable de red. Según el estándar de cableado estructurado, el enlace permanente no debe superar los 90 metros para garantizar un correcto funcionamiento.
 
-Corresponde a la distancia total del cable de red. Según el estándar de cableado estructurado, el enlace permanente no debe superar los 90 metros para garantizar un correcto funcionamiento
 Pérdida de Inserción (Atenuación)
-
 Es la disminución de la potencia de la señal a medida que viaja por el cable. Esta pérdida aumenta con la distancia y puede afectar el rendimiento de la red si supera los valores permitidos.
-Paradiafonía (NEXT - Near-End Crosstalk)
 
+Paradiafonía (NEXT - Near-End Crosstalk)
 La paradiafonía mide la interferencia o “ruido” que se produce entre pares de cables dentro del mismo conductor, especialmente en el extremo cercano. Un valor alto de NEXT indica mayor interferencia, lo que puede provocar errores en la transmisión de datos.
