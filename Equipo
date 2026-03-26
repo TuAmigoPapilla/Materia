@@ -1,1 +1,13 @@
 Registro de los testeos realizados en el rack/puestos de trabajo.
+
+Funciones de la Certificadora
+Auto-Test
+Permite ejecutar automáticamente un conjunto completo de pruebas sobre el cable de red, evaluando su rendimiento según la categoría configurada (Cat 5e, Cat 6, Cat 6a). Entrega un resultado final de aprobación (PASS) o falla (FAIL).
+
+Verificación de PoE
+Permite comprobar si el cable puede suministrar energía eléctrica mediante Power over Ethernet (PoE), indicando la capacidad de carga y el voltaje disponible en el enlace.
+Prueba de DHCP/Ping
+
+Verifica la conectividad lógica de la red, comprobando si el dispositivo obtiene una dirección IP automáticamente (DHCP) y si existe comunicación con otros equipos mediante pruebas de ping.
+Localizador de Fallas (TDR)
+Utiliza la tecnología de reflectometría en el dominio del tiempo (TDR) para detectar fallas en el cable, como cortes o cortocircuitos, indicando la distancia exacta en metros donde se encuentra el problema.
