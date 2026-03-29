@@ -1,3 +1,7 @@
-# Materia
+Objetivos
 
-En esta actividad se realizaron pruebas de certificación en distintos puntos de red utilizando una certificadora de cableado estructurado. Se evaluaron parámetros como Wiremap, longitud, atenuación y NEXT, con el objetivo de asegurar el correcto funcionamiento de la red.
+En esta actividad, se hicieron pruebas para asegurarse de que los puntos de red cumplen con los estándares TIA/EIA-568. Esto se hizo con un equipo especial.
+
+- Ejecutar pruebas de certificación en redes físicas.
+- Verificar parámetros técnicos de cableado estructurado.
+- Documentar resultados en formato técnico.
