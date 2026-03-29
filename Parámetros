@@ -1,10 +1,14 @@
 Parámetros de Certificación
 Parámetros Críticos de Certificación
 
-Mapa de Cableado (Wiremap): Prueba de continuidad que confirma que los 8 pines estén conectados correctamente en ambos extremos según las normas T568A/B, detectando fallas como cables cruzados o pares divididos.
+Wiremap (Mapa de Cableado)
+Verifica que los cables estén conectados correctamente según las normas T568A o T568B. Esto ayuda a detectar errores como pares de cables cruzados o abiertos.
 
-Longitud: Medición de la distancia física del cable. Para un enlace permanente, el estándar establece un límite máximo de 90 metros.
+Longitud
+La longitud del cable es importante. Se recomienda que no supere los 90 metros para enlaces permanentes.
 
-Pérdida de Inserción (Atenuación): Es la reducción de la fuerza de la señal al viajar por el cable. El equipo verifica que esta pérdida no impida la transmisión de datos a alta velocidad.
+Pérdida de Inserción (Atenuación)
+La pérdida de inserción se refiere a la disminución de la señal mientras viaja por el cable. A mayor distancia, mayor será la pérdida de señal.
 
-Paradiastofonía (NEXT): Interferencia que ocurre entre los pares de cables en el extremo cercano. Se mide a través de la relación señal-ruido (SNR) para asegurar que el ruido no corrompa los datos.
+NEXT (Paradiastofonía)
+La NEXT se refiere a la interferencia entre pares de cables cercanos. Esta interferencia puede afectar la calidad de la señal de manera significativa.
